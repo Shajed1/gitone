@@ -1,7 +1,5 @@
 two
 -2ffee
-<<<<<<< HEAD
+
 222
-=======
-esgertg
->>>>>>> staging
+
